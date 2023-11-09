@@ -1,0 +1,10 @@
+- 👋 Olá, me chamo Nathan Vinícius e tenho 19 anos, sou formado em Análise e Denvolvimento de Sistemas e atualmente estou á procura de uma
+- oportunidade no mercado de trabalho, deixo aqui meus projetos e evoluções em programação, análise de dados e etc.
+- 👀 A área de análise de sistemas me chama muita atenção e trás um interesse enorme para melhor entender a área
+- e futuramente trabalhar e me dedicar bastante á este ramo.
+- 🌱 Atualmente estou procurando me aperfeiçoar e focar em uma linguagem de programação para que eu tenha domínio total da linguagem,
+- a linguagem por mim escolhi foi Python, por conta da vasta bibliotaca de pacotes e ferramentas que a linguagem possui. ...
+- 💞️ Meu principal foco no momento é a Análise de Sistemas, acredito que eu possa colaborar muito mais com análises de sistemas e
+- personalizações do que criando algo do zero absoluto.
+- 📫 Como estou procurando minha primeira experiência na área, https://www.linkedin.com/in/nathan-vinicius-702b2029a/ este é meu linkedin pessoal
+- pode encontrar lá meus contatos.
